@@ -10,7 +10,7 @@ from kivy.metrics import dp
 
 # Настройки API
 client = {
-    "api_key": "sk-or-vv-7629b",
+    "api_key": "ваш ключ",
     "base_url": "https://api.vsegpt.ru/v1"
 }
 
